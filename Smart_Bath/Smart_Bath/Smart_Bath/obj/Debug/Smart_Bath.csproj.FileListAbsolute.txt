@@ -1,0 +1,28 @@
+D:\Visual Studio 2017\Projects\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.exe.config
+D:\Visual Studio 2017\Projects\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.exe
+D:\Visual Studio 2017\Projects\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.pdb
+D:\Visual Studio 2017\Projects\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.Properties.Resources.resources
+D:\Visual Studio 2017\Projects\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.SmartBathControlUI.resources
+D:\Visual Studio 2017\Projects\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.csproj.GenerateResource.Cache
+D:\Visual Studio 2017\Projects\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.exe
+D:\Visual Studio 2017\Projects\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.pdb
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.exe.config
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.exe
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.pdb
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.csprojResolveAssemblyReference.cache
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.Properties.Resources.resources
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.SmartBathControlUI.resources
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.csproj.GenerateResource.cache
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.csproj.CoreCompileInputs.cache
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.exe
+C:\Users\LIM_CHEOL_GYUN\Documents\Visual Studio 2017\Project\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.pdb
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.exe.config
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.exe
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\bin\Debug\Smart_Bath.pdb
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.csprojAssemblyReference.cache
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.Properties.Resources.resources
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.SmartBathControlUI.resources
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.csproj.GenerateResource.cache
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.csproj.CoreCompileInputs.cache
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.exe
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath\Smart_Bath\obj\Debug\Smart_Bath.pdb

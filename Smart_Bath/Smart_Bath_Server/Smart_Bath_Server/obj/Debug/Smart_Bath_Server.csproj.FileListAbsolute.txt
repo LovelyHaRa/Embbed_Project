@@ -1,0 +1,17 @@
+C:\Users\820\Desktop\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.csprojResolveAssemblyReference.cache
+C:\Users\820\Desktop\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.MainUI.resources
+C:\Users\820\Desktop\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.Properties.Resources.resources
+C:\Users\820\Desktop\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.csproj.GenerateResource.Cache
+C:\Users\820\Desktop\Smart_Bath_Server\Smart_Bath_Server\bin\Debug\Smart_Bath_Server.exe
+C:\Users\820\Desktop\Smart_Bath_Server\Smart_Bath_Server\bin\Debug\Smart_Bath_Server.pdb
+C:\Users\820\Desktop\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.exe
+C:\Users\820\Desktop\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.pdb
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\bin\Debug\Smart_Bath_Server.exe
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\bin\Debug\Smart_Bath_Server.pdb
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.csprojAssemblyReference.cache
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.MainUI.resources
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.Properties.Resources.resources
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.csproj.GenerateResource.cache
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.csproj.CoreCompileInputs.cache
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.exe
+D:\Dropbox\PROGRAMING\ETC\Smart_Bath_Server\Smart_Bath_Server\obj\Debug\Smart_Bath_Server.pdb
